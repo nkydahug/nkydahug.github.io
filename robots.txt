@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nkydahug.github.io/sitemap.xml
